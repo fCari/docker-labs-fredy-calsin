@@ -7,7 +7,7 @@ app = FastAPI()
 def home():
     return {
         "message": "Hola desde mi API Docker segura",
-        "student": "Fredy Calsin",
+        "student": "Fredy Calsin 3",
         "version": "3.0"
     }
 
